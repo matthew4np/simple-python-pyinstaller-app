@@ -16,3 +16,6 @@ and execute at the command line on Linux machines without Python.
 
 The `jenkins` directory contains an example of the `Jenkinsfile` (i.e. Pipeline)
 you'll be creating yourself during the tutorial.
+
+Testing webhook integration<img width="468" height="17" alt="image" src="https://github.com/user-attachments/assets/38183721-1b22-450a-bfad-ca6453cf7d98" />
+
